@@ -1,8 +1,8 @@
 # Kaggle Notebooks
 
-### 1. Regression Algorithms
-1.1 Linear Regression
-1.2 Logistic Regression
+## 1. Regression Algorithms
+#### 1.1 Linear Regression
+#### 1.2 Logistic Regression
    
 ### 3. Regularization Algorithms
 2.1 Ridge Regression Regression
